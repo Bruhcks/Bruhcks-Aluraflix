@@ -1,0 +1,87 @@
+
+body {
+    background: black;
+    color: #178866;
+    margin: 1px;
+
+}
+
+header {
+
+    border-bottom: solid 5px #b72d59;
+    padding: 10px;
+    font-size: 50px;
+    color: #2df882d1;
+
+    font-family: "Chakra Petch", serif;
+    font-style: normal;
+
+}
+
+.ep1 {
+
+    font-family: "Antic Slab", sans-serif;
+    font-style: normal;
+
+    background: #3e0a20;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+
+}
+
+
+.t2000 {
+
+
+    font-family: "Chakra Petch", sans-serif;
+    font-style: normal;
+    color: #2df882d1;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    ;
+
+}
+
+.texto {
+
+    margin-right: 15%;
+
+}
+
+
+h1 {
+
+    font-size: 55px;
+    display: flex
+}
+
+.vilanesco {
+
+    margin-left: 22%;
+
+}
+
+.telecurso1 {
+
+    display: flex;
+    overflow-x: auto;
+    gap: 5px;
+
+}
+
+.telecurso1 img {
+
+    opacity: 0.6;
+    height: 200;
+
+}
+
+.telecurso1 img:hover {
+
+    opacity: 1.0;
+    border: 2px solid #b72d59;
+
+}
